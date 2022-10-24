@@ -2,7 +2,6 @@ Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=DIRECTIONAL_COUPLER.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=DS18B20.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=EEPROM.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=ETH_PHY.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=FAN_CTRL.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=FLASH.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=IIC_LCD.SchDoc|SheetNumber= 
@@ -10,3 +9,4 @@ Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=JTAG_MCU.SchDoc|She
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MCU_CORE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=POWER_SUPPLY.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SEQUENCER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=USB.SchDoc|SheetNumber= 

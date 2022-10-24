@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Member From Class: ClassName=MCU_CORE Member=DD?
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=DD? NewDesignator=DD4
+Change Component Designator: OldDesignator=DD? NewDesignator=DD5
+Change Component Designator: OldDesignator=DD? NewDesignator=DD9
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=+12V Pin=C6-2
+Change Net Name : Old Net Name=NetDD?_32 New Net Name=NetDD9_32
+Change Net Name : Old Net Name=NetDD?_33 New Net Name=NetDD9_33
+Change Net Name : Old Net Name=NetDD?_44 New Net Name=NetDD9_44
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR37_1
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C6 0.1 uF
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C10 0.1 uF
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C21 10uFx10V
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component DD5 AMS1117-5.0
+Added Member To Class: ClassName=MCU_CORE Member=Component DD9 STM32F103C8T6

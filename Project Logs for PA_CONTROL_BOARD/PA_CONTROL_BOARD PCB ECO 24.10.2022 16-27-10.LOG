@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=POWER_SUPPLY Member=DD9
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C6 0.1 uF
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component DD4 AMS1117-3.3
