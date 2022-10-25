@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=T_1 Pin=DD9-18
+Added Member To Class: ClassName=IIC_LCD Member=Component R? 4k7
+Added Member To Class: ClassName=IIC_LCD Member=Component R? 4k7
+Added Member To Class: ClassName=USB Member=Component R? 10
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=EEPROM
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=SEQUENCER
+Added Room: Name=USB

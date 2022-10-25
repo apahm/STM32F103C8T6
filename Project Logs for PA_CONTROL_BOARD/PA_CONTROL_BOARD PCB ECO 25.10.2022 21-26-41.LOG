@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PWM_2 Pin=DD9-11
+Added Pin To Net: NetName=T_2 Pin=DD9-19
+Added Member To Class: ClassName=IIC_LCD Member=Component R? 4k7
+Added Member To Class: ClassName=IIC_LCD Member=Component R? 4k7
+Added Member To Class: ClassName=USB Member=Component R? 10
