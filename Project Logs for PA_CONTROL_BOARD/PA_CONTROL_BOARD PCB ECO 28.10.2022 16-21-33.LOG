@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=BIAS Pin=XS?-1
+Removed Pin From Net: NetName=RELAY Pin=XS?-2
+Removed Pin From Net: NetName=PTT Pin=XS?-3
+Removed Pin From Net: NetName=PTT_KSD Pin=XS?-4
+Removed Pin From Net: NetName=LNA Pin=XS?-5
+Added Component: Designator=C11(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=R16(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R18(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "20.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(YX-XH-3)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Added Component: Designator=XS9(WF-4)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS14(WF-8)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=T_2 Pin=R16-1
+Added Pin To Net: NetName=+12V Pin=R16-2
+Added Pin To Net: NetName=PWM_2 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=NetR18_2 Pin=VD5-2
+Added Pin To Net: NetName=3V3 Pin=XS3-1
+Added Pin To Net: NetName=DS18B20 Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-3
+Added Pin To Net: NetName=GND Pin=XS9-1
+Added Pin To Net: NetName=+12V Pin=XS9-2
+Added Pin To Net: NetName=T_2 Pin=XS9-3
+Added Pin To Net: NetName=NetR18_2 Pin=XS9-4
+Added Pin To Net: NetName=BIAS Pin=XS14-1
+Added Pin To Net: NetName=RELAY Pin=XS14-2
+Added Pin To Net: NetName=PTT Pin=XS14-3
+Added Pin To Net: NetName=PTT_KSD Pin=XS14-4
+Added Pin To Net: NetName=LNA Pin=XS14-5
+Added Pin To Net: NetName=GND Pin=XS14-6
+Added Pin To Net: NetName=GND Pin=XS14-7
+Added Pin To Net: NetName=GND Pin=XS14-8
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C6 10uFx10V
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C11 0.33 uF
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component C16 10n
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component C19 10n
+Added Member To Class: ClassName=FAN_CTRL Member=Component R16 4k7
+Added Member To Class: ClassName=FAN_CTRL Member=Component R18 120
+Added Member To Class: ClassName=FAN_CTRL Member=Component VD5 1N4728A
+Added Member To Class: ClassName=DS18B20 Member=Component XS3 DS18B20
+Added Member To Class: ClassName=FAN_CTRL Member=Component XS9 FAN
+Added Member To Class: ClassName=MCU_CORE Member=Component XS14 Text
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=EEPROM
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=USB
