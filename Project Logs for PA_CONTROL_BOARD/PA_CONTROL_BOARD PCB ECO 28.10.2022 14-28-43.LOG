@@ -1,0 +1,529 @@
+Removed Member From Class: ClassName=EEPROM Member=C30
+Removed Member From Class: ClassName=SEQ Member=R36
+Removed Member From Class: ClassName=SEQ Member=R38
+Removed Member From Class: ClassName=SEQ Member=R40
+Removed Member From Class: ClassName=SEQ Member=R41
+Removed Member From Class: ClassName=SEQ Member=R42
+Removed Member From Class: ClassName=SEQ Member=VT1
+Removed Member From Class: ClassName=SEQ Member=XS12
+Added Component: Designator=C33(TECAP_A)
+Add component (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=DA3(DIP-4)
+Add component (AddParameter): Name = "Published"; Value = "09.01.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA4(DIP-4)
+Add component (AddParameter): Name = "Published"; Value = "09.01.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA5(DIP-4)
+Add component (AddParameter): Name = "Published"; Value = "09.01.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA6(DIP-4)
+Add component (AddParameter): Name = "Published"; Value = "09.01.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA7(DIP-4)
+Add component (AddParameter): Name = "Published"; Value = "09.01.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=L1(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "20.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Дроссель"; VariantName = "[No Variations]"
+Added Component: Designator=R15(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R16(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R17(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R18(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R45(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R46(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R47(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R48(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R49(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R50(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R51(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R52(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R53(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R54(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R55(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R56(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R57(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R58(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R59(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R60(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R61(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R62(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R63(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R64(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R65(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R66(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R67(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R68(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R69(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R70(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R71(AXIAL-0.6)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "20.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "20.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "20.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD9(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(TO-92-A)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(TO-126)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(TO-92-A)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(TO-126)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(TO-126)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT7(TO-126)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT8(TO-92-A)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT9(TO-126)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT10(TO-92-A)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT11(TO-126)
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(YX-XH-3)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Added Component: Designator=XS8(WF-4)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS9(WF-4)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS14(WF-5)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS15(WF-2)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS16(WF-5)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS17(WF-2)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS18(WF-2)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=Z1(HCM1206X)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Added Pin To Net: NetName=+12V Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=NetDA3_1 Pin=DA3-1
+Added Pin To Net: NetName=NetDA3_2 Pin=DA3-2
+Added Pin To Net: NetName=GND Pin=DA3-3
+Added Pin To Net: NetName=NetDA3_4 Pin=DA3-4
+Added Pin To Net: NetName=NetDA4_1 Pin=DA4-1
+Added Pin To Net: NetName=NetDA4_2 Pin=DA4-2
+Added Pin To Net: NetName=GND Pin=DA4-3
+Added Pin To Net: NetName=NetDA4_4 Pin=DA4-4
+Added Pin To Net: NetName=NetDA5_1 Pin=DA5-1
+Added Pin To Net: NetName=NetDA5_2 Pin=DA5-2
+Added Pin To Net: NetName=GND Pin=DA5-3
+Added Pin To Net: NetName=PTT_KSD Pin=DA5-4
+Added Pin To Net: NetName=NetDA6_1 Pin=DA6-1
+Added Pin To Net: NetName=NetDA6_2 Pin=DA6-2
+Added Pin To Net: NetName=GND Pin=DA6-3
+Added Pin To Net: NetName=NetDA6_4 Pin=DA6-4
+Added Pin To Net: NetName=NetDA7_1 Pin=DA7-1
+Added Pin To Net: NetName=NetDA7_2 Pin=DA7-2
+Added Pin To Net: NetName=GND Pin=DA7-3
+Added Pin To Net: NetName=NetDA7_4 Pin=DA7-4
+Added Pin To Net: NetName=NetC34_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=T_1 Pin=R15-1
+Added Pin To Net: NetName=+12V Pin=R15-2
+Added Pin To Net: NetName=T_2 Pin=R16-1
+Added Pin To Net: NetName=+12V Pin=R16-2
+Added Pin To Net: NetName=PWM_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=PWM_2 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetDA3_1 Pin=R45-1
+Added Pin To Net: NetName=+12V Pin=R45-2
+Added Pin To Net: NetName=+18V Pin=R46-1
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=+12V Pin=R47-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=+12V Pin=R48-2
+Added Pin To Net: NetName=NetDA4_1 Pin=R49-1
+Added Pin To Net: NetName=+18V Pin=R49-2
+Added Pin To Net: NetName=NetR46_2 Pin=R50-1
+Added Pin To Net: NetName=NetDA4_4 Pin=R50-2
+Added Pin To Net: NetName=NetR47_2 Pin=R51-1
+Added Pin To Net: NetName=NetDA3_4 Pin=R51-2
+Added Pin To Net: NetName=NetL1_2 Pin=R52-1
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=RELAY Pin=R53-2
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=BIAS Pin=R54-2
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=NetR53_1 Pin=R55-2
+Added Pin To Net: NetName=GND Pin=R56-1
+Added Pin To Net: NetName=NetR54_1 Pin=R56-2
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=+12V Pin=R57-2
+Added Pin To Net: NetName=NetDA5_1 Pin=R58-1
+Added Pin To Net: NetName=+12V Pin=R58-2
+Added Pin To Net: NetName=+18V Pin=R59-1
+Added Pin To Net: NetName=NetR59_2 Pin=R59-2
+Added Pin To Net: NetName=NetDA6_1 Pin=R60-1
+Added Pin To Net: NetName=+18V Pin=R60-2
+Added Pin To Net: NetName=NetR59_2 Pin=R61-1
+Added Pin To Net: NetName=NetDA6_4 Pin=R61-2
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetDA5_2 Pin=R62-2
+Added Pin To Net: NetName=NetR63_1 Pin=R63-1
+Added Pin To Net: NetName=PTT Pin=R63-2
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=NetR63_1 Pin=R64-2
+Added Pin To Net: NetName=+12V Pin=R65-1
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetDA7_1 Pin=R66-1
+Added Pin To Net: NetName=+12V Pin=R66-2
+Added Pin To Net: NetName=NetR65_2 Pin=R67-1
+Added Pin To Net: NetName=NetDA7_4 Pin=R67-2
+Added Pin To Net: NetName=NetR68_1 Pin=R68-1
+Added Pin To Net: NetName=NetR68_2 Pin=R68-2
+Added Pin To Net: NetName=NetR69_1 Pin=R69-1
+Added Pin To Net: NetName=LNA Pin=R69-2
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=NetR69_1 Pin=R70-2
+Added Pin To Net: NetName=NetR68_1 Pin=R71-1
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=NetR17_2 Pin=VD4-2
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=NetR18_2 Pin=VD5-2
+Added Pin To Net: NetName=NetVD6_1 Pin=VD6-1
+Added Pin To Net: NetName=GND Pin=VD6-2
+Added Pin To Net: NetName=GND Pin=VD7-1
+Added Pin To Net: NetName=NetC34_1 Pin=VD7-2
+Added Pin To Net: NetName=NetVD8_1 Pin=VD8-1
+Added Pin To Net: NetName=NetDA5_1 Pin=VD8-2
+Added Pin To Net: NetName=NetVD9_1 Pin=VD9-1
+Added Pin To Net: NetName=GND Pin=VD9-2
+Added Pin To Net: NetName=NetR47_2 Pin=VT2-1
+Added Pin To Net: NetName=NetC34_1 Pin=VT2-2
+Added Pin To Net: NetName=+12V Pin=VT2-3
+Added Pin To Net: NetName=NetR46_2 Pin=VT3-1
+Added Pin To Net: NetName=NetVD6_1 Pin=VT3-2
+Added Pin To Net: NetName=+18V Pin=VT3-3
+Added Pin To Net: NetName=NetR52_2 Pin=VT4-1
+Added Pin To Net: NetName=NetR48_1 Pin=VT4-2
+Added Pin To Net: NetName=GND Pin=VT4-3
+Added Pin To Net: NetName=NetR53_1 Pin=VT5-1
+Added Pin To Net: NetName=NetDA4_2 Pin=VT5-2
+Added Pin To Net: NetName=GND Pin=VT5-3
+Added Pin To Net: NetName=NetR54_1 Pin=VT6-1
+Added Pin To Net: NetName=NetDA3_2 Pin=VT6-2
+Added Pin To Net: NetName=GND Pin=VT6-3
+Added Pin To Net: NetName=NetR59_2 Pin=VT7-1
+Added Pin To Net: NetName=NetVD9_1 Pin=VT7-2
+Added Pin To Net: NetName=+18V Pin=VT7-3
+Added Pin To Net: NetName=NetR57_1 Pin=VT8-1
+Added Pin To Net: NetName=NetVD8_1 Pin=VT8-2
+Added Pin To Net: NetName=GND Pin=VT8-3
+Added Pin To Net: NetName=NetR63_1 Pin=VT9-1
+Added Pin To Net: NetName=NetDA6_2 Pin=VT9-2
+Added Pin To Net: NetName=GND Pin=VT9-3
+Added Pin To Net: NetName=NetR65_2 Pin=VT10-1
+Added Pin To Net: NetName=NetR68_2 Pin=VT10-2
+Added Pin To Net: NetName=+12V Pin=VT10-3
+Added Pin To Net: NetName=NetR69_1 Pin=VT11-1
+Added Pin To Net: NetName=NetDA7_2 Pin=VT11-2
+Added Pin To Net: NetName=GND Pin=VT11-3
+Added Pin To Net: NetName=3V3 Pin=XS3-1
+Added Pin To Net: NetName=DS18B20 Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-3
+Added Pin To Net: NetName=GND Pin=XS8-1
+Added Pin To Net: NetName=+12V Pin=XS8-2
+Added Pin To Net: NetName=T_1 Pin=XS8-3
+Added Pin To Net: NetName=NetR17_2 Pin=XS8-4
+Added Pin To Net: NetName=GND Pin=XS9-1
+Added Pin To Net: NetName=+12V Pin=XS9-2
+Added Pin To Net: NetName=T_2 Pin=XS9-3
+Added Pin To Net: NetName=NetR18_2 Pin=XS9-4
+Added Pin To Net: NetName=NetVD6_1 Pin=XS14-1
+Added Pin To Net: NetName=GND Pin=XS14-2
+Added Pin To Net: NetName=GND Pin=XS14-3
+Added Pin To Net: NetName=GND Pin=XS14-4
+Added Pin To Net: NetName=NetVD9_1 Pin=XS14-5
+Added Pin To Net: NetName=NetL1_2 Pin=XS15-1
+Added Pin To Net: NetName=GND Pin=XS15-2
+Added Pin To Net: NetName=NetR48_1 Pin=XS16-1
+Added Pin To Net: NetName=NetR62_1 Pin=XS16-2
+Added Pin To Net: NetName=GND Pin=XS16-3
+Added Pin To Net: NetName=GND Pin=XS16-4
+Added Pin To Net: NetName=GND Pin=XS16-5
+Added Pin To Net: NetName=NetR57_1 Pin=XS17-1
+Added Pin To Net: NetName=GND Pin=XS17-2
+Added Pin To Net: NetName=NetR68_1 Pin=XS18-1
+Added Pin To Net: NetName=GND Pin=XS18-2
+Added Pin To Net: NetName=NetVD8_1 Pin=Z1-1
+Added Pin To Net: NetName=+12V Pin=Z1-2
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C6 10uFx10V
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component C16 10n
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component C19 10n
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component C21 10n
+Added Member To Class: ClassName=MCU_CORE Member=Component C23 22pF
+Added Member To Class: ClassName=MCU_CORE Member=Component C25 0.1uF
+Added Member To Class: ClassName=MCU_CORE Member=Component C27 0.1uF
+Added Member To Class: ClassName=MCU_CORE Member=Component C29 0.1uF
+Added Member To Class: ClassName=EEPROM Member=Component C31 0.1 uF
+Added Member To Class: ClassName=USB Member=Component C32 0.1 uF
+Added Member To Class: ClassName=SEQ Member=Component C33 10uFx25V
+Added Member To Class: ClassName=SEQ Member=Component C34 0.1uF
+Added Member To Class: ClassName=SEQ Member=Component DA3 TLP627
+Added Member To Class: ClassName=SEQ Member=Component DA4 TLP627
+Added Member To Class: ClassName=SEQ Member=Component DA5 TLP781
+Added Member To Class: ClassName=SEQ Member=Component DA6 TLP627
+Added Member To Class: ClassName=SEQ Member=Component DA7 TLP627
+Added Member To Class: ClassName=USB Member=Component DD9 PRTR5V0U2X
+Added Member To Class: ClassName=SEQ Member=Component L1 EC24-151K
+Added Member To Class: ClassName=FAN_CTRL Member=Component R15 4k7
+Added Member To Class: ClassName=FAN_CTRL Member=Component R16 4k7
+Added Member To Class: ClassName=FAN_CTRL Member=Component R17 120
+Added Member To Class: ClassName=FAN_CTRL Member=Component R18 120
+Added Member To Class: ClassName=USB Member=Component R43 10
+Added Member To Class: ClassName=USB Member=Component R44 10
+Added Member To Class: ClassName=SEQ Member=Component R45 2k
+Added Member To Class: ClassName=SEQ Member=Component R46 47k
+Added Member To Class: ClassName=SEQ Member=Component R47 100k
+Added Member To Class: ClassName=SEQ Member=Component R48 10k
+Added Member To Class: ClassName=SEQ Member=Component R49 2k
+Added Member To Class: ClassName=SEQ Member=Component R50 10k
+Added Member To Class: ClassName=SEQ Member=Component R51 2k
+Added Member To Class: ClassName=SEQ Member=Component R52 10k
+Added Member To Class: ClassName=SEQ Member=Component R53 2k
+Added Member To Class: ClassName=SEQ Member=Component R54 2k
+Added Member To Class: ClassName=SEQ Member=Component R55 2k
+Added Member To Class: ClassName=SEQ Member=Component R56 2k
+Added Member To Class: ClassName=SEQ Member=Component R57 100k
+Added Member To Class: ClassName=SEQ Member=Component R58 470
+Added Member To Class: ClassName=SEQ Member=Component R59 47k
+Added Member To Class: ClassName=SEQ Member=Component R60 2k
+Added Member To Class: ClassName=SEQ Member=Component R61 10k
+Added Member To Class: ClassName=SEQ Member=Component R62 2k
+Added Member To Class: ClassName=SEQ Member=Component R63 2k
+Added Member To Class: ClassName=SEQ Member=Component R64 2k
+Added Member To Class: ClassName=SEQ Member=Component R65 100k
+Added Member To Class: ClassName=SEQ Member=Component R66 2k
+Added Member To Class: ClassName=SEQ Member=Component R67 2k
+Added Member To Class: ClassName=SEQ Member=Component R68 10k
+Added Member To Class: ClassName=SEQ Member=Component R69 2k
+Added Member To Class: ClassName=SEQ Member=Component R70 2k
+Added Member To Class: ClassName=SEQ Member=Component R71 100k
+Added Member To Class: ClassName=FAN_CTRL Member=Component VD4 1N4728A
+Added Member To Class: ClassName=FAN_CTRL Member=Component VD5 1N4728A
+Added Member To Class: ClassName=SEQ Member=Component VD6 1N4007
+Added Member To Class: ClassName=SEQ Member=Component VD7 1N4744A
+Added Member To Class: ClassName=SEQ Member=Component VD8 1N4007
+Added Member To Class: ClassName=SEQ Member=Component VD9 1N4007
+Added Member To Class: ClassName=SEQ Member=Component VT2 2N3906
+Added Member To Class: ClassName=SEQ Member=Component VT3 КТ973А
+Added Member To Class: ClassName=SEQ Member=Component VT4 2SC1815
+Added Member To Class: ClassName=SEQ Member=Component VT5 BD139
+Added Member To Class: ClassName=SEQ Member=Component VT6 BD139
+Added Member To Class: ClassName=SEQ Member=Component VT7 КТ973А
+Added Member To Class: ClassName=SEQ Member=Component VT8 2SC1815
+Added Member To Class: ClassName=SEQ Member=Component VT9 BD139
+Added Member To Class: ClassName=SEQ Member=Component VT10 2N3906
+Added Member To Class: ClassName=SEQ Member=Component VT11 BD139
+Added Member To Class: ClassName=DS18B20 Member=Component XS3 DS18B20
+Added Member To Class: ClassName=FAN_CTRL Member=Component XS8 FAN
+Added Member To Class: ClassName=FAN_CTRL Member=Component XS9 FAN
+Added Member To Class: ClassName=USB Member=Component XS13 USB
+Added Member To Class: ClassName=SEQ Member=Component XS14 SEQ
+Added Member To Class: ClassName=SEQ Member=Component XS15 KSD
+Added Member To Class: ClassName=SEQ Member=Component XS16 SEQ
+Added Member To Class: ClassName=SEQ Member=Component XS17 KSD
+Added Member To Class: ClassName=SEQ Member=Component XS18 LNA
+Added Member To Class: ClassName=SEQ Member=Component Z1 HCM1212X
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=EEPROM
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=SEQ
+Added Room: Name=USB
