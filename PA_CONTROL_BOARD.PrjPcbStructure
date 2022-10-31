@@ -8,4 +8,5 @@ Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=IIC_LCD.SchDoc|Shee
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=JTAG_MCU.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MCU_CORE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=POWER_SUPPLY.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=RS485.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=USB.SchDoc|SheetNumber= 
